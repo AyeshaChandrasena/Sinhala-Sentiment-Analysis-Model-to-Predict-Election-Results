@@ -12,8 +12,11 @@ Objectives
 ![image](https://github.com/user-attachments/assets/389b0bbc-1356-43d3-8177-ee9eee9aaceb)
 
 Below image shows the LIME output for Random Forest Model
+
 ![image](https://github.com/user-attachments/assets/6a6cfe68-9f53-44de-8c4b-52b55a68a8f3)
 
+
 Below results shows the LIME Explainable results for SVM model
+
 ![image](https://github.com/user-attachments/assets/e73d70f1-2d1c-48e1-bd81-548dd4e61ca1)
 
