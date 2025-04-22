@@ -21,6 +21,6 @@ Below results shows the LIME Explainable results for SVM model
 ![image](https://github.com/user-attachments/assets/e73d70f1-2d1c-48e1-bd81-548dd4e61ca1)
 
 
-Below graph shows the results obtained for Political/Non Political classification model
+Below table shows the results obtained for Political/Non Political classification model
 
 ![image](https://github.com/user-attachments/assets/2fcfe558-8895-4db8-9931-e63dc731ea7f)
